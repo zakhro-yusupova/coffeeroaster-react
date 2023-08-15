@@ -1,0 +1,45 @@
+.quality {
+  padding-bottom: 200px;
+}
+
+.quality__inner {
+  width: 1280px;
+  height: 577px;
+  position: relative;
+  padding-top: 112px;
+  background: #2C343E;
+  border-radius: 10px;
+  color: #FFF;
+  text-align: center;
+}
+
+.quality__title{
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FEFCF7;
+  margin: 0;
+  margin-bottom: 32px;
+}
+
+.quality__text-box {
+  width: 540px;
+  margin: 0 auto;
+}
+
+.quality__text{
+  line-height: 26px;
+  color: #FEFCF7;
+  opacity: 0.8;
+}
+
+.quality__list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: -190px;
+  z-index: 1;
+  margin: 90px;
+}

@@ -1,0 +1,22 @@
+
+.site-menu__list{
+  display: flex;
+  align-items: center;
+}
+
+.site-menu__link{
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #83888F;
+  margin-left: 32px;
+}
+
+.site-menu__link:hover{
+  color: #333D4B;
+}
+
+.site-menu__link:active{
+  color: #333D4B;
+}

@@ -1,0 +1,21 @@
+.btn{
+  background: #0E8784;
+  border: 1px  solid transparent;
+  border-radius: 6px;
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  padding: 15px 31px;
+  color: #FEFCF7;
+
+}
+
+.btn:hover{
+  background: #66D2CF;
+}
+
+.btn:active{
+  background: #66D2CF;
+}

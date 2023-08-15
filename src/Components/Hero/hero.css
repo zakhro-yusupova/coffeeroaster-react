@@ -1,0 +1,32 @@
+.hero{
+  padding-bottom: 167px;
+}
+
+.hero__inner{
+  background-image: url("../../Assets/images/bitmap-bg-img.png") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  color: #FEFCF7;
+  padding-top: 116px;
+  padding-bottom: 116px;
+  padding-left: 85px;
+}
+
+.hero__info{
+  width: 493px;
+}
+.hero__title{
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 72px;
+}
+
+.hero__text{
+  width: 445px;
+  line-height: 26px;
+  opacity: 0.8;
+  margin-top: 32px;
+  margin-bottom: 56px;
+}

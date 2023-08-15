@@ -1,0 +1,70 @@
+@font-face {
+  src: url('../Assets/fonts/fraunces-v10-latin-700.woff2') format('woff2'),
+  url('../Assets/fonts/fraunces-v10-latin-700.woff') format('woff');
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  src: url('../Assets/fonts/fraunces-v10-latin-900.woff2') format('woff2'),
+  url('../Assets/fonts/fraunces-v10-latin-900.woff') format('woff');
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+
+@font-face {
+  src: url('../Assets/fonts/Barlow-Regular.woff2') format('woff2'),
+  url('../Assets/fonts/Barlow-Regular.woff') format('woff');
+  font-family: 'Barlow';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url('../Assets/fonts/Barlow-Bold.woff2') format('woff2'),
+  url('../Assets/fonts/Barlow-Bold.woff') format('woff');
+  font-family: 'Barlow';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+html{
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+}
+
+image{
+  vertical-align: middle;
+  object-fit: cover;
+}
+
+ul,ol{
+  list-style: none;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Barlow';
+  background-color: #F2F2F2;
+}
+
+.container{
+  width: 1340px;
+  padding: 0 20px;
+  margin: 0 auto;
+ }

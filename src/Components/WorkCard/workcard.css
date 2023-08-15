@@ -1,0 +1,28 @@
+.work__item{
+  width: 285px;
+  color: #333D4B;
+}
+.work__item + .work__item{
+  margin-left: 95px;
+}
+
+.work__nums{
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 72px;
+  color: #FDD6BA;
+}
+
+.work__subtitle{
+  font-family: "Fraunces" ;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  margin-top: 38px;
+  margin-bottom: 42px;
+}
+
+.work__subtext{
+  line-height: 26px;
+}

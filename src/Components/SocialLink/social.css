@@ -1,0 +1,15 @@
+.social__link{
+  margin-left: 24px;
+}
+
+.social__img{
+  fill: #FEFCF7 !important;
+}
+
+.social__img:hover{
+  fill: #FDD6BA !important;
+}
+
+.social__img:active{
+  fill: #FDD6BA !important;
+}
